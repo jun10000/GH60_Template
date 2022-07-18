@@ -1510,7 +1510,7 @@
 
   (footprint "footprints:hole2plate" (layer "F.Cu")
     (tedit 0) (tstamp 1dee43ca-5a78-4c34-9272-3a7c58296bd1)
-    (at 214.2994 109.59445)
+    (at 214.2994 109.71445)
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J6" (at 0 -2.16 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1528,7 +1528,7 @@
 
   (footprint "footprints:hole2plate" (layer "F.Cu")
     (tedit 0) (tstamp 1fff2aa5-a4dd-49c6-8bde-183a32c90aaf)
-    (at 152 71.39375)
+    (at 152 71.51375)
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J5" (at 0 -2.16 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1546,7 +1546,7 @@
 
   (footprint "footprints:hole2plate" (layer "F.Cu")
     (tedit 0) (tstamp b42eb674-2b43-4d3c-a896-afecfa66744b)
-    (at 283.8499 52.29455)
+    (at 283.8499 52.41455)
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J4" (at 0 -2.16 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1564,7 +1564,7 @@
 
   (footprint "footprints:hole1plate" (layer "F.Cu")
     (tedit 0) (tstamp bba6bc5c-00de-4571-85e3-dd33781ea744)
-    (at 48.9993 52.29455)
+    (at 48.9993 52.41455)
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J3" (at 0 -2.06 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1579,7 +1579,7 @@
 
   (footprint "footprints:hole3plate" (layer "F.Cu")
     (tedit 0) (tstamp d2c376a6-017f-46a8-8e0b-55486e84b554)
-    (at 307.3412 80.89495)
+    (at 307.3412 81.01495)
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J8" (at 0 -2.16 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1597,7 +1597,7 @@
 
   (footprint "footprints:hole3plate" (layer "F.Cu")
     (tedit 0) (tstamp f4e16c5a-4c4b-457e-aae3-5d3feead5775)
-    (at 25.2589 80.89495)
+    (at 25.2589 81.01495)
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J7" (at 0 -2.16 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1615,7 +1615,7 @@
 
   (footprint "footprints:connector_usb2c_5077CR-16-SMC2-BK-TR" (layer "B.Cu")
     (tedit 0) (tstamp 6969a0ae-79a7-453d-ba0b-b076d58429f4)
-    (at 42 29.5238)
+    (at 42 29.6438)
     (fp_text reference "U2" (at 0 1.67 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 0.5 0.5) (thickness 0.075)) (justify mirror))
       (tstamp 9a5b4293-e5dd-477a-981d-c34bb0afb405)
@@ -1655,7 +1655,7 @@
 
   (footprint "Button_Switch_THT:SW_PUSH_6mm" (layer "B.Cu")
     (tedit 5A02FE31) (tstamp 9b257498-f7b8-44fe-8084-9647856cdff4)
-    (at 49.701 70.34175 -90)
+    (at 49.701 70.46175 -90)
     (descr "https://www.omron.com/ecb/products/pdf/en-b3f.pdf")
     (tags "tact sw push 6mm")
     (attr through_hole)
@@ -1704,14 +1704,14 @@
     )
   )
 
-  (gr_arc (start 306.8 24.39375) (mid 308.214246 24.979519) (end 308.8 26.39375) (layer "Edge.Cuts") (width 0.1) (tstamp 00000000-0000-0000-0000-000060576ed8))
-  (gr_arc (start 23.8 26.39375) (mid 24.385789 24.979554) (end 25.8 24.39375) (layer "Edge.Cuts") (width 0.1) (tstamp 00000000-0000-0000-0000-000060576f20))
-  (gr_arc (start 25.8 118.99615) (mid 24.385754 118.410381) (end 23.8 116.99615) (layer "Edge.Cuts") (width 0.1) (tstamp 00000000-0000-0000-0000-000060576f55))
-  (gr_line (start 25.8 118.99615) (end 306.8 118.99615) (layer "Edge.Cuts") (width 0.1) (tstamp 41f7a42c-465f-4d19-a12a-c805986d2f3c))
-  (gr_line (start 306.8 24.39375) (end 25.8 24.39375) (layer "Edge.Cuts") (width 0.1) (tstamp 62e266af-d44d-4b78-a02d-0bac88cf6d9d))
-  (gr_arc (start 308.8 116.99615) (mid 308.214211 118.410346) (end 306.8 118.99615) (layer "Edge.Cuts") (width 0.1) (tstamp 6ed861d5-d9e7-4c75-b6b4-5d72e451ec23))
-  (gr_line (start 308.8 116.99615) (end 308.8 26.39375) (layer "Edge.Cuts") (width 0.1) (tstamp 9281525f-901c-4c5c-9588-71cd033ef617))
-  (gr_line (start 23.8 26.39375) (end 23.8 116.99615) (layer "Edge.Cuts") (width 0.1) (tstamp b6133706-ef97-4a3a-a331-ba53d6d63a39))
+  (gr_arc (start 306.8 24.51375) (mid 308.214261 25.099504) (end 308.8 26.51375) (layer "Edge.Cuts") (width 0.1) (tstamp 00000000-0000-0000-0000-000060576ed8))
+  (gr_arc (start 23.8 26.51375) (mid 24.385804 25.099569) (end 25.8 24.51375) (layer "Edge.Cuts") (width 0.1) (tstamp 00000000-0000-0000-0000-000060576f20))
+  (gr_arc (start 25.8 119.11615) (mid 24.385739 118.530396) (end 23.8 117.11615) (layer "Edge.Cuts") (width 0.1) (tstamp 00000000-0000-0000-0000-000060576f55))
+  (gr_line (start 25.8 119.11615) (end 306.8 119.11615) (layer "Edge.Cuts") (width 0.1) (tstamp 41f7a42c-465f-4d19-a12a-c805986d2f3c))
+  (gr_line (start 306.8 24.51375) (end 25.8 24.51375) (layer "Edge.Cuts") (width 0.1) (tstamp 62e266af-d44d-4b78-a02d-0bac88cf6d9d))
+  (gr_arc (start 308.8 117.11615) (mid 308.214196 118.530331) (end 306.8 119.11615) (layer "Edge.Cuts") (width 0.1) (tstamp 6ed861d5-d9e7-4c75-b6b4-5d72e451ec23))
+  (gr_line (start 308.8 117.11615) (end 308.8 26.51375) (layer "Edge.Cuts") (width 0.1) (tstamp 9281525f-901c-4c5c-9588-71cd033ef617))
+  (gr_line (start 23.8 26.51375) (end 23.8 117.11615) (layer "Edge.Cuts") (width 0.1) (tstamp b6133706-ef97-4a3a-a331-ba53d6d63a39))
   (gr_text "Please remove U2 (USB Connector) and SWR1 (Reset Switch) if you're making the switch plate.\nDon't move screw holes!" (at 23.8125 16.66875) (layer "Cmts.User") (tstamp 52b865a7-e188-44e0-a759-b26d8a0a5532)
     (effects (font (size 2 2) (thickness 0.4)) (justify left))
   )
