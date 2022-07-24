@@ -1,4 +1,4 @@
-(footprint "hole3" (version 20211014) (generator pcbnew)
+(footprint "hole_poker3_pth" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (attr exclude_from_pos_files exclude_from_bom)
@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 66c76ee1-b6d1-4832-b12b-992610029927)
   )
-  (fp_text value "hole3" (at 0 3.444 unlocked) (layer "F.SilkS") hide
+  (fp_text value "hole_poker3_pth" (at 0 3.444 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9dcf7d3e-3714-49bd-b483-8176a6afcf56)
   )

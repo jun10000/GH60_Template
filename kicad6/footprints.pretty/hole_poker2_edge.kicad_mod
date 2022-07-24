@@ -1,12 +1,12 @@
-(footprint "hole2plate" (version 20211014) (generator pcbnew)
+(footprint "hole_poker2_edge" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (attr exclude_from_pos_files exclude_from_bom)
+  (attr board_only exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -2.16 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 66c76ee1-b6d1-4832-b12b-992610029927)
   )
-  (fp_text value "hole2plate" (at 0 2.244 unlocked) (layer "F.SilkS") hide
+  (fp_text value "hole_poker2_edge" (at 0 2.244 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9dcf7d3e-3714-49bd-b483-8176a6afcf56)
   )
